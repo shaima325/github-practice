@@ -1,1 +1,2 @@
-Learning commits, branches, and pull requests.
+
+git pushing something new 
